@@ -1,0 +1,11 @@
+{
+	"authors": [
+		"XXIV"
+	],
+	"copyright": "Copyright © 2022, XXIV",
+	"description": "TheAudioDB API client",
+	"homepage": "https://github.com/thechampagne/audiodb-d",
+	"license": "Apache-2.0",
+	"name": "audiodb",
+	"libs": ["curl"]
+}
